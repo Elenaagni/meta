@@ -1,1 +1,1 @@
-# script sederhana
+Add hello.py script
